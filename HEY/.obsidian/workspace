@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e17e04aaffc26dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b178af6f517cf4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C语言/02数据类型/变量.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88524bd11d158c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "356851be30debff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa7bd93b266b076",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70a832c1d9d31640",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdd311ebddaab58d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "38c3b8f77b5f547f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fc1c00e9ecdcdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a54fc5a502c51d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C语言/02数据类型/变量.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27606f4651ea85e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C语言/02数据类型/变量.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d295b7c1ca2b5807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44efaac1f9e60a3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C语言/02数据类型/变量.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b178af6f517cf4c",
+  "lastOpenFiles": [
+    "C语言/02数据类型/变量.md",
+    "C语言/02数据类型/02数据类型.md",
+    "C语言/03运算符和表达式/03运算符和表达式.md",
+    "C语言/01C语言基础知识/C语言发展和特点.md",
+    "C语言/01C语言基础知识/C语言的基本语法.md",
+    "C语言/01C语言基础知识/C程序基本组成.md",
+    "C语言/01C语言基础知识/01C语言基础知识.md",
+    "C语言/00概述.md",
+    "C语言/02数据类型/数据类型的转换.md",
+    "C语言/02数据类型/数据类型分类.md"
+  ]
+}
